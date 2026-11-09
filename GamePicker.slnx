@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GamePicker.Api/GamePicker.Api.csproj" />
+    <Project Path="src/GamePicker.Application/GamePicker.Application.csproj" />
+    <Project Path="src/GamePicker.Domain/GamePicker.Domain.csproj" />
+    <Project Path="src/GamePicker.Infrastructure/GamePicker.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GamePicker.Tests/GamePicker.Tests.csproj" />
+  </Folder>
+</Solution>
